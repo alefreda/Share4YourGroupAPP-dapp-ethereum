@@ -15,7 +15,7 @@ class Main extends Component {
 
             <div class="jumbotron">
               <h1 class="display-4" id="title">Benvenuto su Share4YourGroup </h1>
-              <p class="lead">Condividi documenti e file in modo decentralizzando, questi verranno caricati su un database distribuito e una blockchain basata su ethereum ne definirà la loro autenticità.</p>
+              <p class="lead">Condividi documenti e file in modo decentralizzando, questi verranno caricati su IPFS e una blockchain basata su ethereum ne definirà la loro autenticità.</p>
               <p>Ricorda: se condividerai l'hash, il file sarà accessibile a chiunque!</p>
               <p class="lead">
 
