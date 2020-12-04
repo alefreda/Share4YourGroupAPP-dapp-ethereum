@@ -2,9 +2,9 @@
 <img src="" width="400" title="Share4YourGroupAPP">
 </p>
 
-<p align="center">
-SHARE FOR YOUR GROUP DAPP
-</p>
+
+# SHARE FOR YOUR GROUP DAPP
+
 
 ## Features
 
