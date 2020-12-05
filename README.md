@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Share4YourGroup.png" width="400" title="Share4YourGroupAPP">
+<img src="Share4YourGroup.PNG" width="400" title="Share4YourGroupAPP">
 </p>
 
 
