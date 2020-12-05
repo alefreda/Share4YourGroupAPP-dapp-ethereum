@@ -126,7 +126,7 @@ class App extends Component {
        })
        window.location.reload()
       }).on('error', (e) =>{
-        window.alert('Error')
+        window.alert('Error, documento già presente sulla blockchain!')
         this.setState({loading: false})
       })
     })
