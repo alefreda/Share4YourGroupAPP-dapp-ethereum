@@ -9,7 +9,7 @@
 ## Features
 
   - [X] Built for Ethereum using [Web3](https://github.com/ethereum/web3.js/).
-  - [X] It uses [IPFS](http://github.com/ipfs).   
+  - [X] [IPFS](http://github.com/ipfs).   
   - [X] Reactjs mobile & desktop responsive UX.
 
 ## Setup
